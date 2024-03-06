@@ -3,7 +3,7 @@ from typing import Tuple
 
 def DT_TOKEN() -> str:
     # TODO: change this to your duckietown token
-    dt_token = "PUT_YOUR_TOKEN_HERE"
+    dt_token = "dt1-3nT7FDbT7NLPrXykNJmqqgqJBEsYmH2uKj51w75XfpuSifN-43dzqWFnWd8KBa1yev1g3UKnzVxZkkTbfUu63pe8MDJrUYgdjRLQPvk23jgQVC9U9M"
     return dt_token
 
 
